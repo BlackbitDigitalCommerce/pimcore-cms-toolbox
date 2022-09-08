@@ -1,0 +1,15 @@
+{
+  "name": "blackbit_digital_commerce/pimcore-cms-toolbox",
+  "description": "Basic area bricks to create Pimcore documents for landing pages, Web2Print documents or complete websites",
+  "version": "1.0.0",
+  "homepage": "https://shop.blackbit.com/pimcore-cms-toolbox/",
+  "license": "GPL-3.0-or-later",
+  "type": "pimcore-bundle",
+  "authors": [
+    {
+      "name": "Blackbit",
+      "email": "info@blackbit.de",
+      "role": "Developer"
+    }
+  ]
+}
