@@ -4,7 +4,7 @@ This bundle provides ready-to-be-used area bricks to create Pimcore documents wi
 
 ## Usage
 
-After installation you can immediately start to create documents:
+After installation, you can immediately start to create documents:
 
 ![Add new document](doc/add-document.png)
 
