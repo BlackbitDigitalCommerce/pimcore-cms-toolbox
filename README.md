@@ -12,7 +12,7 @@ Directly after creation the document offers to add all different types of area b
 
 ![Add area brick](doc/add-area-brick.png)
 
-After adding a `Multi-column layout` and inside this an `Image` field on the left and a `Headline` and a `Rich Text / WYSIWYG` field on the right, the document looks like this:
+After adding a `Multi-column Layout` and inside this an `Image` field on the left and a `Headline` and a `Rich Text / WYSIWYG` field on the right, the document looks like this:
 
 ![Finished document](doc/finished-document-editmode.png)
 
